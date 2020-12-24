@@ -1,0 +1,26 @@
+*{
+    border: 3px solid
+}
+.header{
+    background-color: rgb(255, 255, 185);
+    color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.cont{
+    background-color: rgb(18, 0, 100);
+    color: white; 
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+p,h2{
+    text-align: center;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
